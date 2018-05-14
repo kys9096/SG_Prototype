@@ -8,7 +8,7 @@ public class PlayerControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        temp();
 	}
 	
 	// Update is called once per frame
@@ -19,5 +19,10 @@ public class PlayerControl : MonoBehaviour {
     void temp()
     {
         //asdfasdfasdasfasd
+
+        for (int i=0; i<4; i++)
+        {
+            abc++;
+        }
     }
 }
