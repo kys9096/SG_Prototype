@@ -16,7 +16,7 @@ public class SphereControl : MonoBehaviour {
 		
 	}
 
-    public void ColWithAnithing()
+    public void ColAnithing()
     {
         isColllided = true;
     }
